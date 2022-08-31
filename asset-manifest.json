@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.35253566.css",
-    "main.js": "/reactportfolio/static/js/main.8b914015.js",
-    "static/media/weather.png": "/reactportfolio/static/media/weather.1f8582b2768fb88b3fc9.png",
-    "static/media/techblog.png": "/reactportfolio/static/media/techblog.7517fa729dfef00c1d1a.png",
-    "static/media/gethigher.png": "/reactportfolio/static/media/gethigher.392aadc21ba5c50ee9c4.png",
-    "static/media/notetaker.png": "/reactportfolio/static/media/notetaker.e94aa3fb4dc25a428a4c.png",
-    "static/media/headshot.jpg": "/reactportfolio/static/media/headshot.450b29cdea293e1eba69.jpg",
-    "static/media/employee-tracker.png": "/reactportfolio/static/media/employee-tracker.a78f88fde4d40b380986.png",
-    "static/media/SER.pdf": "/reactportfolio/static/media/SER.92f3a029968e5928528b.pdf",
-    "index.html": "/reactportfolio/index.html",
-    "main.35253566.css.map": "/reactportfolio/static/css/main.35253566.css.map",
-    "main.8b914015.js.map": "/reactportfolio/static/js/main.8b914015.js.map"
+    "main.css": "/static/css/main.35253566.css",
+    "main.js": "/static/js/main.191a73f2.js",
+    "static/media/weather.png": "/static/media/weather.1f8582b2768fb88b3fc9.png",
+    "static/media/techblog.png": "/static/media/techblog.7517fa729dfef00c1d1a.png",
+    "static/media/gethigher.png": "/static/media/gethigher.392aadc21ba5c50ee9c4.png",
+    "static/media/notetaker.png": "/static/media/notetaker.e94aa3fb4dc25a428a4c.png",
+    "static/media/headshot.jpg": "/static/media/headshot.450b29cdea293e1eba69.jpg",
+    "static/media/employee-tracker.png": "/static/media/employee-tracker.a78f88fde4d40b380986.png",
+    "static/media/SER.pdf": "/static/media/SER.92f3a029968e5928528b.pdf",
+    "index.html": "/index.html",
+    "main.35253566.css.map": "/static/css/main.35253566.css.map",
+    "main.191a73f2.js.map": "/static/js/main.191a73f2.js.map"
   },
   "entrypoints": [
     "static/css/main.35253566.css",
-    "static/js/main.8b914015.js"
+    "static/js/main.191a73f2.js"
   ]
 }
